@@ -1,6 +1,6 @@
-package wiseSaying
+package com.back.global
 
-class Rq(
+class   Rq(
     cmd: String,
 ) {
 
